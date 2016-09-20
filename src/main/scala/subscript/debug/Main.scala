@@ -12,6 +12,5 @@ object Main extends SubScriptApplication {
 
 class MainFrame extends MainFrameTrait {
   script..
-    live = [..? & b c d] s
-
+    live = a b c / ..? ; ...
 }
